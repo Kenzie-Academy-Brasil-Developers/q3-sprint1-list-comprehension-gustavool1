@@ -1,10 +1,10 @@
-from solution import (
+from main import(
     list_comprehension_exercise_1,
     list_comprehension_exercise_2,
     list_comprehension_exercise_3,
     list_comprehension_exercise_4,
     list_comprehension_exercise_5,
-    list_comprehension_exercise_6,
+    list_comprehension_exercise_6
 )
 
 
